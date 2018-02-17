@@ -4,22 +4,23 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 16, 2018
 
 ### Student Name:  
-(First and Last Name)
+Justin Brown
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson I was introduced to the basics of JavaScript. The JavaScript scripting language in this case was used to run an expense calculator. 
+
+
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://justinbrown2.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JavaScript is case sensitive. If you do not exactly mimic the same case throughout the program it will not run correctly which can be frustrating. 
+2. When creating an identifier in JavaScript it can only contain numbers, letter, underscores, and a dollar sign. 
+3. To display text we use the document object method document.write() to write a string of text to the browser. 
 
 
 
